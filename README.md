@@ -1,9 +1,3 @@
-## 介绍
-
-一个使用 Cloudflare Pages 创建的 URL 缩短器
-
-*Demo* : [https://d.131213.xyz/](https://d.131213.xyz/)
-
 
 
 ### 利用Cloudflare pages部署
